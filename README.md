@@ -8,3 +8,4 @@
 * In order to make news analysis simple I have developed a simple python script that would scrap news data from an indian news website and have applied NLP techniques to vectorize each article.
 * This can be incredibly helpful to create ML models since such models require vectorized data.
 
+You can read the entire article about this project [here.](https://tejasmohanayyar.github.io/stock-market-articles-sentiment-analysis)
